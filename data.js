@@ -1,4 +1,4 @@
-export const data = [
+const data = [
   {
     active: "8",
     allocation: 0,
@@ -512,3 +512,5 @@ export const data = [
       "https://d31fr2pwly4c4s.cloudfront.net/8/f/1/bf3ba270-4f17-4e3f-8515-a8d57b6d2063-Testevent_1024.jpg",
   },
 ];
+
+module.exports = data
